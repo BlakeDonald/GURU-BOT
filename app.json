@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/BlakeDonald/GURU-BOT",
+  "repository": "https://github.com/GURU-BOT/GURU-BOT",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
